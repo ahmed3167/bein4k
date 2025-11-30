@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10,
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/rZRIR8wVxg4EWW2LPbskZnlkyLgwqq-g5BZkNNdAQM3SY3kaB9bh9EX0Mj_q-gCRgU2tw_2UsnPZ3cSjO15B1A/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_delta.m3u8?type=live
+#EXTINF:10,
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/rZRIR8wVxg4EWW2LPbskZnlkyLgwqq-g5BZkNNdAQM3SY3kaB9bh9EX0Mj_q-gCRgU2tw_2UsnPZ3cSjO15B1A/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_delta.m3u8?type=live 
+#EXT-X-ENDLIST
